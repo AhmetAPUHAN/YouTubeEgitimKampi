@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_05_Loops", "YouTubeEgitimKampi\04_05_Loops.csproj", "{52C65043-9EBC-4B2B-8F48-23AD7860656B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_KararYapilari", "03_KararYapilari\03_KararYapilari.csproj", "{80AC935B-202C-496E-B6E6-10FD46B8D038}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Arrays", "06_Arrays\06_Arrays.csproj", "{9A09A6D3-2E90-45CE-9898-2BA57E2E4B64}"
@@ -29,16 +27,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_OOP_BusinessLayer", "11_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_OOP_PresentationLayer", "11_OOP_PresentationLayer\11_OOP_PresentationLayer.csproj", "{65E38442-7418-4091-860F-125A2F2A8A14}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_05_Loop", "04_05_Loop\04_05_Loop.csproj", "{ABB04583-F10B-4C26-9681-E3A6F46DAB2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{52C65043-9EBC-4B2B-8F48-23AD7860656B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{52C65043-9EBC-4B2B-8F48-23AD7860656B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{52C65043-9EBC-4B2B-8F48-23AD7860656B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{52C65043-9EBC-4B2B-8F48-23AD7860656B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{80AC935B-202C-496E-B6E6-10FD46B8D038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{80AC935B-202C-496E-B6E6-10FD46B8D038}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80AC935B-202C-496E-B6E6-10FD46B8D038}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -87,6 +83,10 @@ Global
 		{65E38442-7418-4091-860F-125A2F2A8A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65E38442-7418-4091-860F-125A2F2A8A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65E38442-7418-4091-860F-125A2F2A8A14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABB04583-F10B-4C26-9681-E3A6F46DAB2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB04583-F10B-4C26-9681-E3A6F46DAB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB04583-F10B-4C26-9681-E3A6F46DAB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB04583-F10B-4C26-9681-E3A6F46DAB2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

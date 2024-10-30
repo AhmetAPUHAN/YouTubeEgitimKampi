@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace YouTubeEgitimKampi
+namespace _04_05_Loop
 {
     internal class Program
     {
