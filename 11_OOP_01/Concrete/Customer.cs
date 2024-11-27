@@ -8,10 +8,12 @@ namespace _11_OOP_01.Concrete
 {
     public  class Customer
     {
-        public int Id { get; set; }
-        public string Name { get; set; }    
-        public string Surname { get; set; }
-        public string District { get; set; }
-        public string City { get; set; }
+        public int CustomerId { get; set; }
+        public string CustomerName { get; set; }    
+        public string CustomerSurname { get; set; }
+        public string CustomerDistrict { get; set; }
+        public string CustomerCity { get; set; }
+        public List<Order> Orders { get; set; }
+
     }
 }

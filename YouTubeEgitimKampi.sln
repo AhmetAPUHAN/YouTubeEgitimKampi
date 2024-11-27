@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_OOP_PresentationLayer", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_05_Loop", "04_05_Loop\04_05_Loop.csproj", "{ABB04583-F10B-4C26-9681-E3A6F46DAB2E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEğitimKampiEFProject", "CSharpEğitimKampiEFProject\CSharpEğitimKampiEFProject.csproj", "{744EF9E7-18BA-43B4-9B44-D5177892F2DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{ABB04583-F10B-4C26-9681-E3A6F46DAB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABB04583-F10B-4C26-9681-E3A6F46DAB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABB04583-F10B-4C26-9681-E3A6F46DAB2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{744EF9E7-18BA-43B4-9B44-D5177892F2DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744EF9E7-18BA-43B4-9B44-D5177892F2DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744EF9E7-18BA-43B4-9B44-D5177892F2DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744EF9E7-18BA-43B4-9B44-D5177892F2DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
