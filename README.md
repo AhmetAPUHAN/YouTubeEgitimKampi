@@ -14,3 +14,4 @@
 
 
 7. Foreach: foreach döngüsü, koleksiyonlar ve diziler üzerinde kolayca işlem yapmayı sağlar. Koleksiyonların her bir elemanına sırasıyla erişim sağlamayı öğrendik.
+
